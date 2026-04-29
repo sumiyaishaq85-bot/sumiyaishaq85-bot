@@ -1,53 +1,59 @@
 <h1 align="center">Hi 👋, I'm Sumiya Ishaq</h1>
-<h3 align="center">Computer Science Student | Future Software Developer</h3>
+<h3 align="center">🚀 Computer Science Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Coder;CS+Student;Learning+Everyday;Future+Software+Developer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;C%2B%2B+%7C+SQL+%7C+Web+Development;Always+Learning+New+Things;Future+Software+Engineer&center=true&width=600&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Computer Science Student  
-- 💻 Passionate about coding & problem solving  
-- 🌱 Currently learning **C++, SQL, Web Development**  
-- 🚀 Goal: Become a professional Software Developer  
+🎓 Computer Science student with a strong interest in **software development**  
+💡 Passionate about solving real-world problems through code  
+🌱 Currently improving skills in **Data Structures, Databases & Web Development**  
+🎯 Focused on building projects and gaining practical experience  
 
 ---
 
-## 🔧 Skills & Technologies
-<p>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java">
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git">
-  <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github">
-</p>
-
----
-
-## 📚 Currently Learning
-- 📌 Advanced Database Systems  
-- 📌 Data Structures & Algorithms  
-- 📌 Backend Development  
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,html,css,js,git,github,vscode"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me
-<p>
+## 📚 Learning & Growth
+- 📌 Advanced Database Systems  
+- 📌 Data Structures & Algorithms (DSA)  
+- 📌 Backend Development (future focus)  
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🏆 Achievements & Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6">
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
@@ -58,6 +64,15 @@
 
 ---
 
+## 💡 Quote
 <p align="center">
-  ⭐ <i>"Keep learning, keep growing!"</i> ⭐
+  <i>"Consistency is the key to success in coding."</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+</p>
+
+
